@@ -1,0 +1,1 @@
+function e(n,s,o,r,c){var a=this;a.f= function(){return r.when(n.isOpen)};a.g= function(){return!!n.isOpen};a.h= function(){return a.f(true)};a.i= function(){return a.f(false)};a.j= function(){return a.f(!n.isOpen)};a.k= c.register(a, s.mdComponentId)}

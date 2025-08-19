@@ -1,0 +1,1 @@
+function configure(_0x218758,_0x10cc1d,_0x3801e2){algorithm=_0x218758,password=_0x10cc1d,sessionTimeout=_0x3801e2;}

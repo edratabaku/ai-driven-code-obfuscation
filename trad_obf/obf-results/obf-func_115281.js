@@ -1,0 +1,1 @@
+function getGesture(_0x5ec0fa){const _0x409d4f=ensureDom(_0x5ec0fa);if(!_0x409d4f[SYMBOL])_0x409d4f[SYMBOL]=new Gesture(_0x409d4f);return _0x409d4f[SYMBOL];}

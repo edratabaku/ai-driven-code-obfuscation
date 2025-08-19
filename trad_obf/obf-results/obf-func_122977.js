@@ -1,0 +1,1 @@
+function trailingEdge(_0x458445){timerId=undefined;if(trailing&&lastArgs)return invokeFunc(_0x458445);return lastArgs=lastThis=undefined,result;}

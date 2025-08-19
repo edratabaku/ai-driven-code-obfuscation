@@ -1,0 +1,1 @@
+function knRestifyHandler(_0x2c80fd){var _0x264080=new knServiceContext(_0x2c80fd);return function(_0x2653a2,_0x4b766b,_0x581cf7){knHandleRequest(_0x264080,_0x2653a2,_0x4b766b,_0x581cf7);};}

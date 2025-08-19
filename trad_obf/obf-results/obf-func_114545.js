@@ -1,0 +1,1 @@
+function wait(_0x163408=0x0){return function(_0x3bdd55){return new Promise(_0x55272b=>setTimeout(_0x20bff2=>_0x55272b(_0x3bdd55),_0x163408));};}

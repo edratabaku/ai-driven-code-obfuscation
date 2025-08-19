@@ -1,0 +1,1 @@
+function setEngine(_0x1160bb,_0x56c53f){initialized=![],engine=new _0x1160bb(_0x56c53f),init(_0x56c53f);}

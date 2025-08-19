@@ -1,0 +1,1 @@
+function visibilityFilter(_0x34de78=SHOW_ALL,_0x2b27fb={}){const {type:_0x20c63c,filter:_0x2cff8e}=_0x2b27fb;switch(_0x20c63c){case SET_VISIBILITY_FILTER:return _0x2cff8e;default:return _0x34de78;}}

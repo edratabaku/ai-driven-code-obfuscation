@@ -1,0 +1,1 @@
+function addMethod(_0xc11a57,_0x3bb54d){return _0x3bb54d!==undefined&&(methods[_0xc11a57]=_0x3bb54d),methods[_0xc11a57];}

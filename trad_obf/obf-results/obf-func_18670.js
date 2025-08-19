@@ -1,0 +1,1 @@
+function getExpandoData(_0x5cb3c4){var _0xabe876=expandoData[_0x5cb3c4[expando]];return!_0xabe876&&(_0xabe876={},expanID++,_0x5cb3c4[expando]=expanID,expandoData[expanID]=_0xabe876),_0xabe876;}

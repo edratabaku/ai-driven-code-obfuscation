@@ -1,0 +1,1 @@
+function setExtraText(_0x4981af,_0x17ca82){termExtraText[_0x4981af]!=_0x17ca82&&(termExtraText[_0x4981af]=_0x17ca82,updateTerminal());}

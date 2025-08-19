@@ -1,0 +1,1 @@
+function transformObject(_0x29ff80){const _0x2aad06={};for(let _0x5a78f3 in _0x29ff80){_0x2aad06[_0x5a78f3]=transformType(_0x29ff80[_0x5a78f3]);}return _0x2aad06;}

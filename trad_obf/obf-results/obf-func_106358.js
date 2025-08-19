@@ -1,0 +1,1 @@
+function generateOperationParameters(_0x40e1e6,_0xeb7191){var _0x31b349=[];return _0x40e1e6?addOperationSingularParameters(_0xeb7191,_0x31b349):addOperationCollectionParameters(_0xeb7191,_0x31b349),_0x31b349;}

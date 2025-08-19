@@ -1,0 +1,1 @@
+async function getProcessedData(_0x54a15d){let _0x3d4cd6;try{_0x3d4cd6=await downloadData(_0x54a15d);}catch(_0x10cb3c){_0x3d4cd6=await downloadFallbackData(_0x54a15d);}return processDataInWorker(_0x3d4cd6);}

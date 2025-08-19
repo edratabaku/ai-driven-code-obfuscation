@@ -1,0 +1,1 @@
+function firstOrDefault(_0x4656a0,_0x39bb1c){for(const _0x2b9cbd of _0x4656a0){if(_0x39bb1c(_0x2b9cbd))return _0x2b9cbd;}return null;}

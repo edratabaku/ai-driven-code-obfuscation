@@ -1,0 +1,1 @@
+function giveStore(_0x2e9437){var _0x3e1feb=_0x2e9437[ATTR];return!_0x3e1feb&&(_0x3e1feb=_0x2e9437[ATTR]=[{}]),_0x3e1feb;}

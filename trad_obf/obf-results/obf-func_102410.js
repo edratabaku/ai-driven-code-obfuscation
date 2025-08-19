@@ -1,0 +1,1 @@
+function registerClient(_0x477950,_0x6a4c80,_0x1643ba){aliasedClientStubs[_0x477950]=_0x1643ba,clientStubs[_0x6a4c80]=_0x1643ba;}

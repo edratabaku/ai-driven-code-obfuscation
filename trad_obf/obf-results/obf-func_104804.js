@@ -1,0 +1,1 @@
+function instantiateChildren(_0x39b250,_0x218a67,_0x52888d,_0x18a623){if(_0x39b250==null)return null;var _0x158a37={};return![]?traverseAllChildren(_0x39b250,function(_0xf9b47d,_0xae07ab,_0x44cb8d){return instantiateChild(_0xf9b47d,_0xae07ab,_0x44cb8d,_0x18a623);},_0x158a37):traverseAllChildren(_0x39b250,instantiateChild,_0x158a37),_0x158a37;}

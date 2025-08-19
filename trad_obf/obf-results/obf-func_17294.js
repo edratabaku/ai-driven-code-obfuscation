@@ -1,0 +1,1 @@
+function hyperLinkifiedVersion(_0xc5a82c){let _0xd63fda=getHyperLinksFromText(_0xc5a82c);return _0xd63fda?seperateTextAndHyperLink(_0xc5a82c,_0xd63fda):_0xc5a82c;}

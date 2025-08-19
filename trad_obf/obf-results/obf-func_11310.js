@@ -1,0 +1,1 @@
+function recoverCellIndex(_0x2004cb,_0x41983b){if(!_virtualTable[_0x2004cb])return _0x41983b;if(!_virtualTable[_0x2004cb][_0x41983b])return _0x41983b;var _0x47495e=_0x41983b;while(_virtualTable[_0x2004cb][_0x47495e]){_0x47495e++;if(!_virtualTable[_0x2004cb][_0x47495e])return _0x47495e;}}

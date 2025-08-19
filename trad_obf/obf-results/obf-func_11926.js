@@ -1,0 +1,1 @@
+function createPerfMeasurement(_0x1ffcba,_0x4232fc){var _0x462270=new PerfMeasurement(_0x1ffcba,_0x4232fc);return exports[_0x1ffcba]=_0x462270,_0x462270;}

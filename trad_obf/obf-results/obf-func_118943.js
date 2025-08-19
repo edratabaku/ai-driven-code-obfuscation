@@ -1,0 +1,1 @@
+function addNewerLanguageTranspilationCheck(_0x16d0ba,_0xf8f2f9){if(transpilationRequiredForAllLaterModes)requiresTranspilation[_0x16d0ba]=!![];else _0xf8f2f9()?requiresTranspilation[_0x16d0ba]=![]:(requiresTranspilation[_0x16d0ba]=!![],transpilationRequiredForAllLaterModes=!![]);}

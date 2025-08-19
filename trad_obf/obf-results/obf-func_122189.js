@@ -1,0 +1,1 @@
+function resetWheelTracking(_0x2f5e78){_0x2f5e78[wheelDistanceSymbol]=0x0,_0x2f5e78[lastDeltaXSymbol]=0x0,_0x2f5e78[absorbDecelerationSymbol]=![],_0x2f5e78[postNavigateDelayCompleteSymbol]=![],_0x2f5e78[lastWheelTimeoutSymbol]&&(clearTimeout(_0x2f5e78[lastWheelTimeoutSymbol]),_0x2f5e78[lastWheelTimeoutSymbol]=null);}

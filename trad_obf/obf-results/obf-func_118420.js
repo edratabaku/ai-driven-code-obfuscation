@@ -1,0 +1,1 @@
+function setOnSuccess(_0x467cd2,_0x47e55e=getDataFromAction){return handleSuccess((_0x3bae56,_0x2f7b64)=>set(_0x467cd2,_0x47e55e(_0x2f7b64,_0x3bae56),_0x3bae56));}

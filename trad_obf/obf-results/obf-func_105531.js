@@ -1,0 +1,1 @@
+function nextScene(){switch(currentScene){case scene1:return currentScene=scene2;case scene2:return currentScene=scene1;default:return currentScene=scene1;}}
